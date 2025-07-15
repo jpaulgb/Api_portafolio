@@ -15,3 +15,8 @@ Antes de comenzar, asegúrate de tener instalado:
 ---
 
 GET: localhost:3006/api/proyectos
+
+npm init -y
+npm install express
+touch index.js .gitignore
+mkdir models routes controllers
